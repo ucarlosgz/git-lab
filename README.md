@@ -1,3 +1,3 @@
 #Git real samples#
 
-store repository
+all is lie
